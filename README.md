@@ -17,13 +17,14 @@ request.
 
 * [Python documentation](https://docs.python.org/2.7/) - Python reference.
 * [Python Module of the Week](https://pymotw.com/2/) - A tour of the Python standard library through short examples.
-* [Python Pedia](https://pythonpedia.com/) - Comprehensive list of references to several Python libraries. Includes references to: [NumPy](#hola), [SciPy](#commonly-used-libraries),
+* [Python Pedia](https://pythonpedia.com/) - Comprehensive list of references to most of the libraries I regularly use, including: [IPython](#ipython), [NumPy](#numpy), [SciPy](#scipy), [Matplotlib](#matplotlib), [Bokeh](#bokeh), [Astropy](#astropy), [Luigi](#luigi), [Pandas](#pandas).
 * [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) - Everything you need to create, deploy and operate production Python web applications. Includes references to: Django, MySQL, JavaScript, HTML.
 
 ## Commonly used libraries
 
-* [NumPy](https://docs.scipy.org/doc/) - The fundamental package for numerical computing with Python. 
-* [SciPy](https://docs.scipy.org/doc/) - The fundamental package for mathematics, science, and engineering.
-* [Matplotlib] - The most commonly used plotting library capable to produce publication quality figures.
+* <a name="numpy"></a> [NumPy](https://docs.scipy.org/doc/) - The fundamental package for numerical computing with Python. 
+* <a name="scipy"></a> [SciPy](https://docs.scipy.org/doc/) - The fundamental package for mathematics, science, and engineering.
+* <a name="matplotlib"></a> [Matplotlib](https://matplotlib.org/) - The most commonly used plotting library, capable to produce publication quality figures.
+* <a name="bokeh"></a> [Bokeh](http://bokeh.pydata.org/en/latest/) - My favourite plotting library. Useful to quickly and easily create interactive plots, dashboards, and data applications.
 
-<a name="hola"></a>
+
